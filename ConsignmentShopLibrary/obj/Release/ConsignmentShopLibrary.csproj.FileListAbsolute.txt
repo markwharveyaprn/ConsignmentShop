@@ -1,0 +1,6 @@
+C:\Users\markw\Documents\Visual Studio Projects 10-2017\ConsignmentShop\ConsignmentShopLibrary\bin\Release\ConsignmentShopLibrary.dll
+C:\Users\markw\Documents\Visual Studio Projects 10-2017\ConsignmentShop\ConsignmentShopLibrary\bin\Release\ConsignmentShopLibrary.pdb
+C:\Users\markw\Documents\Visual Studio Projects 10-2017\ConsignmentShop\ConsignmentShopLibrary\obj\Release\ConsignmentShopLibrary.csprojResolveAssemblyReference.cache
+C:\Users\markw\Documents\Visual Studio Projects 10-2017\ConsignmentShop\ConsignmentShopLibrary\obj\Release\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+C:\Users\markw\Documents\Visual Studio Projects 10-2017\ConsignmentShop\ConsignmentShopLibrary\obj\Release\ConsignmentShopLibrary.dll
+C:\Users\markw\Documents\Visual Studio Projects 10-2017\ConsignmentShop\ConsignmentShopLibrary\obj\Release\ConsignmentShopLibrary.pdb
